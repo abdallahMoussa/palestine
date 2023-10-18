@@ -151,7 +151,7 @@ left: 10%;
 
       .modal__container::after{
         position: absolute;
-        content: "By: Abdallah Moussa";
+        /* content: "By: Abdallah Moussa"; */
         bottom: -20px;
         left: 5px;
         font-size: 12pt;
